@@ -44,3 +44,5 @@ The release notes page has a custom design with CSS in `stylesheets/release-note
 The schema that validates the YAML data lives in `src/content-linter/lib/release-notes-schema.ts`. See the schema file to find out the required and optional properties.
 
 The schema is exercised by a test in `src/content-linter/tests/lint-files.ts`. The test will fail if the data does not pass validation.
+
+db0sBwWFTJ9n/Dd2XnRFTQD/0XZjYxbNA2ChzmDd9D1KFHLfGmg/YUmVOXe4lUclj0eJ2J0MNMWqjwcywXo2eZtzMkipMpvnTxu3qm2SWZyr2GgaZ3iumxtS2GBmuclHDgwyjUnwn4XSQ5JBXUapiQcllfFtbZAcYeYhFVs+QK+hBd92K2Ul4Aoo/gIDuq+wWOKHpCUtkKIL5fofC3hV1ZNv8S/Y3iWYVcK8hFVO/2r6SXbQv86NT6fDOwPyNxR0TuejpQBG57M9de44FuFdUhu3No1
